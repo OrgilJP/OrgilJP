@@ -6,5 +6,5 @@
 - ☠️ Goals for 2026: Road to [OSEE][osee] | 
 - 🤖 I am currently working on [LIVE MACHINE HACKING][hackthebox] | Windows Kernel Exploitation | Active Directory Hacking 
 - 👾 I am studying right now: [OSEE][osee] | Malware Analysis | CVE
-- 
-- <img src="https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif" width="100">
+  
+# Challenge me 
